@@ -1,11 +1,14 @@
 # Projeto 2 Sistemas Operacionais
 Professor: Jamilson Santos
+
 Problema – Escada Rolante
 
 ## Grupo 04N12
 
 Patrick Alves Gonçalves – 10409363
+
 Nicholas dos Santos Leal – 10409210
+
 Gustavo Ibara – 10389067
 
 ## Documentação
